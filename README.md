@@ -1,2 +1,2 @@
 # java-tsp-client
-Java TimeStamp Protocol Client
+Java RFC-3161 TimeStamp Protocol Client
